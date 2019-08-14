@@ -43,12 +43,12 @@
 18. SwiftyJSON - Class.
 
   屏幕截图显示了用于Twitter时间轴JSON的片段并将其转换为Swift-CoreData的JSONExport。
-![blockchain](https://github.com/JinlongLu-iOS/MyImage/blob/master/屏幕快照%202019-08-14%20下午4.56.34.png)
+![JSONExport](https://github.com/JinlongLu-iOS/MyImage/blob/master/屏幕快照%202019-08-14%20下午4.56.34.png)
 
 安装
 ========================
-请克隆项目，并使用xCode 8及更高版本构建它。
-
+请克隆/下载项目，打开JSONEXport.dmg文件，将JSONEXport.app拖入应用程序快捷方式。
+![dmg](https://github.com/JinlongLu-iOS/MyImage/blob/master/WX20190814-182820.png)
 
 已知限制:
 ========================
