@@ -30,14 +30,17 @@
 5. Objective-C - MAC.
 6. Objective-C - Realm.
 7. Objective-C - iOS.
-8. Swift Classe.
-5. Swift Classes for SwiftyJSON library.
-6. Swift Classes for Realm.
-7. Swift - CoreData.
-8. Swift Structures.
-9. Swift Structures for Gloss
-10. Swift Mappable Classes for (Swift 3) ObjectMapper
-11. Swift Structures for Unbox
+8. Swift - Class.
+9. Swift - CoreData.
+10. Swift - Mappable
+11. Swift - Outlaw.
+12. Swift - Realm.
+13. Swift - Structures.
+14. Swift - Struct - Codable
+15. Swift - Struct - Gloss
+16. Swift - Struct - Unbox
+17. Swift3 - Mappable
+18. SwiftyJSON - Class.
 
   屏幕截图显示了用于Twitter时间轴JSON的片段并将其转换为Swift-CoreData的JSONExport。
 ![blockchain](https://github.com/JinlongLu-iOS/MyImage/blob/master/屏幕快照%202019-08-14%20下午4.56.34.png)
