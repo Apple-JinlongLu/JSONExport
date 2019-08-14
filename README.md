@@ -1,6 +1,6 @@
 # 毫不遮掩 我摊牌了
 ## 就是从[GitHub大佬Ahmed-Ali](https://github.com/Ahmed-Ali/JSONExport) 下载的JSONExport修改的！！！
-## 优化了关闭重新打开打不开问题，把英文全改为中文。
+## 优化了关闭重新打开打不开问题，然后把全英文全改全中文。
 
 # JSONEXport中文版
 
