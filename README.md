@@ -42,37 +42,25 @@
   屏幕截图显示了用于Twitter时间轴JSON的片段并将其转换为Swift-CoreData的JSONExport。
 ![blockchain](https://github.com/JinlongLu-iOS/MyImage/blob/master/屏幕快照%202019-08-14%20下午4.56.34.png)
 
-Installation
+安装
 ========================
-Kindly clone the project, and build it using xCode 8 and above.
+请克隆项目，并使用xCode 8及更高版本构建它。
 
-To Do
+
+已知限制:
 ========================
-* ~~Support Objective-C~~ Done
-* ~~Sync multible classes with the same name or have the same exact properties~~ Done
-* ~~Support to parse JSON arrays of objects~~ Done
-* Load JSON data from web
-* ~~Open .json files from JSONExport~~
-* Supported languages management editor.
-* Beside raw JSON, load the model raw data from plist files as well.
+* 导出到NSManagedObject的子类时，无法导出某些数据类型。例如，核心数据没有“字符串数组”的数据类型;反过来，如果您的JSON包含字符串数组，则导出的文件将无法在不修复类型不匹配的情况下进行编译。
+* 导出RLMObject的子类时，必须手动输入premitive类型的默认值。这是因为动态属性限制会阻止您使用可选的premitive类型。
+* 导出到CoreData或Realm并且您想要使用实用程序方法时，您需要手动监视深层关系循环调用;也就是说，当您将对象转换为字典时，此对象会尝试将其关系之一转换为字典，并且该关系会尝试将原始对象转换为字典，这将导致一种循环，其中每个对象都调用另一个对象的toDictionary方法无穷无尽......
+* 不要尝试使用空值对JSON对象建模，因为JSONExport不理解空值并且无法猜测它们的类型。
+* 数组和对象的深度嵌套不会导出到适当的模型文件中。
 
 
-Known Limitations:
+
+最后 说明
 ========================
-* When exporting to subclasses of NSManagedObject, some data types can not be exported. For example core data does not have data type for "array of strings"; in turn, if your JSON contains an array of strings, the exported file will not compile without you fixing the type mismatch.
-* When exporting subclasses of RLMObject, you will have to enter the default values of premitive types manually. This is because of dynamic properties limition that prevents you from having an optional premitive type.
-* When exporting to CoreData or Realm and you want to use the utility methods, you will need to manually watch for deep relation cycle calls; that is, when you convert an object to dictionary, this object try to convert one of its relation to a dictionary and the relation tries to convert the original object to a dictionary, that will cause a kind of cycle where each object involved calls the other object's toDictionary method infenitly...
-* Avoid attempt to model a JSON object with empty values, because JSONExport does not understand empty values and can not guess their types.
-* Deep nesting of arrays and objects will not be exported in a proper model files.
+该应用程序仍处于早期阶段。请报告任何问题，以便我可以改进它。
 
-
-Final Note
-========================
-The application still in its early stage. Please report any issue so I can improve it.
-
-License
-========================
-JSONExport is available under custom version of **MIT** license.
 
 
 
