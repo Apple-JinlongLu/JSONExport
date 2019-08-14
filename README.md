@@ -42,7 +42,7 @@
 17. Swift3 - Mappable
 18. SwiftyJSON - Class.
 
-  屏幕截图显示了用于Twitter时间轴JSON的片段并将其转换为Swift-CoreData的JSONExport。
+  屏幕截图展示JSON转换 JSONExport。
 ![JSONExport](https://github.com/JinlongLu-iOS/MyImage/blob/master/屏幕快照%202019-08-14%20下午4.56.34.png)
 
 安装
