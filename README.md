@@ -45,12 +45,12 @@
 18. SwiftyJSON - Class.
 
   屏幕截图展示JSON转换 JSONExport。
-![JSONExport](https://github.com/Apple-JinlongLu/MyImage/blob/master/屏幕快照%202019-08-14%20下午4.56.34.png)
+![JSONExport](https://upload-images.jianshu.io/upload_images/5969066-784d219926f36465.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 安装
 ========================
 请克隆/下载项目，打开JSONEXport.dmg文件，将JSONEXport.app拖入应用程序快捷方式。
-![dmg](https://github.com/Apple-JinlongLu/MyImage/blob/master/WX20190814-182820.png)
+![dmg](https://upload-images.jianshu.io/upload_images/5969066-33807d7ce2a3ad8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 已知限制:
 ========================
