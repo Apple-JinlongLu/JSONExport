@@ -88,7 +88,7 @@
       "forEachCustomTypeProperty": "\tif(self.<!VarName!> != nil){\n\t\tdictionary[<!ConstKeyName!>] = [self.<!VarName!> toDictionary];\n\t}\n",
       "returnStatement": "\treturn dictionary;\n",
       "body": "\tNSMutableDictionary * dictionary = [NSMutableDictionary dictionary];\n",
-      "comment": "\n/**\n * Returns all the available property values in the form of NSDictionary object where the key is the approperiate json key and the value is the value of the corresponding property\n */\n",
+      "comment": "\n/**\n * 以NSDictionary对象的形式返回所有可用的属性值，其中键是适当的json键，值是相应属性的值。\n */\n",
       "bodyStart": "\n{\n"
     },
     {
@@ -100,7 +100,7 @@
       "forEachCustomTypeProperty": "\tif(self.<!VarName!> != nil){\n\t\t[aCoder encodeObject:self.<!VarName!> forKey:<!ConstKeyName!>];\n\t}\n",
       "returnStatement": "",
       "body": "",
-      "comment": "\n/**\n * Implementation of NSCoding encoding method\n */\n/**\n * Returns all the available property values in the form of NSDictionary object where the key is the approperiate json key and the value is the value of the corresponding property\n */\n",
+      "comment": "\n/**\n * 实现NSCoding编码方法\n */\n/**\n * 以NSDictionary对象的形式返回所有可用的属性值，其中键是适当的json键，值是相应属性的值。\n */\n",
       "bodyStart": "\n{\n"
     },
     {
@@ -112,7 +112,7 @@
       "forEachCustomTypeProperty": "\tself.<!VarName!> = [aDecoder decodeObjectForKey:<!ConstKeyName!>];\n",
       "returnStatement": "\treturn self;\n",
       "body": "\tself = [super init];\n",
-      "comment": "\n/**\n * Implementation of NSCoding initWithCoder: method\n */\n",
+      "comment": "\n/**\n * 实现NSCoding initWithCoder:方法\n */\n",
       "bodyStart": "\n{\n"
     },
     {
@@ -124,7 +124,7 @@
       "forEachCustomTypeProperty": "\tcopy.<!VarName!> = [self.<!VarName!> copy];\n",
       "returnStatement": "\n\treturn copy;",
       "body": "\t<!ModelName!> *copy = [<!ModelName!> new];\n\n",
-      "comment": "\n/**\n * Implementation of NSCopying copyWithZone: method\n */\n",
+      "comment": "\n/**\n * 实现NSCopying copyWithZone:方法\n */\n",
       "bodyStart": "\n{\n"
     }
   ],
@@ -149,7 +149,7 @@
       "fetchBasicTypePropertyFromMap": "\n\tif(![dictionary[<!ConstKeyName!>] isKindOfClass:[NSNull class]]){\n\t\tself.<!VarName!> = dictionary[<!ConstKeyName!>];\n\t}\t",
       "signature": "\n-(instancetype)initWithDictionary:(NSDictionary *)dictionary\n",
       "fetchArrayOfCustomTypePropertyFromMap": "\n\tif(dictionary[<!ConstKeyName!>] != nil && [dictionary[<!ConstKeyName!>] isKindOfClass:[NSArray class]]){\n\t\tNSArray * <!VarName!>Dictionaries = dictionary[<!ConstKeyName!>];\n\t\tNSMutableArray * <!VarName!>Items = [NSMutableArray array];\n\t\tfor(NSDictionary * <!VarName!>Dictionary in <!VarName!>Dictionaries){\n\t\t\t<!ElementType!> * <!VarName!>Item = [[<!ElementType!> alloc] initWithDictionary:<!VarName!>Dictionary];\n\t\t\t[<!VarName!>Items addObject:<!VarName!>Item];\n\t\t}\n\t\tself.<!VarName!> = <!VarName!>Items;\n\t}",
-      "comment": "\n/**\n * Instantiate the instance using the passed dictionary values to set the properties values\n */\n",
+      "comment": "\n/**\n * 使用传递的字典值实例化实例以设置属性值\n */\n",
       "bodyStart": "{\n\tself = [super init];"
     }
   ],

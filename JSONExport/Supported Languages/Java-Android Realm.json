@@ -41,7 +41,7 @@
                                                         ],
     "constructors": [
                      {
-                     "comment": "\t/**\n\t * Creates instance using the passed realm and jsonObject to set the properties values\n\t */\n",
+                     "comment": "\t/**\n\t * 使用传递的realm和jsonObject创建实例以设置属性值\n\t */\n",
                      "signature": "\tpublic static <!ModelName!> fromJson(Realm realm, JSONObject jsonObject)",
                      "bodyStart": "{\n\t\tif(jsonObject == null){\n\t\t\treturn null;\n\t\t}\n\t\t<!ModelName!> <!LowerCaseModelName!> = realm.createObject(<!ModelName!>.class);\n",
                      "bodyEnd": "\t\treturn <!LowerCaseModelName!>;\n\t}\n",
@@ -54,7 +54,7 @@
                      ],
     "utilityMethods": [
                        {
-                       "comment": "\t/**\n\t * Returns all the available property values in the form of JSONObject instance where the key is the approperiate json key and the value is the value of the corresponding field\n\t */\n",
+                       "comment": "\t/**\n\t * 以JSONObject实例的形式返回所有可用属性值，其中键是重新使用的json键，值是相应字段的值\n\t */\n",
                        "signature": "\tpublic static JSONObject toJsonObject(<!ModelName!> <!LowerCaseModelName!>)",
                        "bodyStart": "\n\t{\n",
                        "bodyEnd": "\t}\n",
@@ -63,7 +63,7 @@
                        "forEachCustomTypeProperty" : "\t\t\tjsonObject.put(\"<!JsonKeyName!>\", <!VarType!>.toJsonObject(<!LowerCaseModelName!>.<!VarName!>));\n",
                        
                        "forEachArrayOfCustomTypeProperty": "\t\t\tif(<!LowerCaseModelName!>.<!VarName!> != null && <!LowerCaseModelName!>.<!VarName!>.size() > 0){\n\t\t\t\tJSONArray <!VarName!>JsonArray = new JSONArray();\n\t\t\t\tfor(<!ElementType!> <!VarName!>Element : <!LowerCaseModelName!>.<!VarName!>){\n\t\t\t\t\t<!VarName!>JsonArray.put(<!ElementType!>.toJsonObject(<!VarName!>Element));\n\t\t\t\t}\n\t\t\t\tjsonObject.put(\"<!JsonKeyName!>\", <!VarName!>JsonArray);\n\t\t\t}\n",
-                       "returnStatement": "\t\t} catch (JSONException e) {\n\t\t\t// TODO Auto-generated catch block\n\t\t\te.printStackTrace();\n\t\t}\n\t\treturn jsonObject;\n"
+                       "returnStatement": "\t\t} catch (JSONException e) {\n\t\t\t// TODO自动生成的catch块\n\t\t\te.printStackTrace();\n\t\t}\n\t\treturn jsonObject;\n"
                        }
                        ]
 }

@@ -1,9 +1,9 @@
 //
 //	Author.swift
 //
-//	Create by Ahmed Ali on 23/5/2016
-//	Copyright © 2016. All rights reserved.
-//	Model file Generated using JSONExport: https://github.com/Ahmed-Ali/JSONExport
+//	Create by 卢金龙 on 23/5/2019
+//	Copyright © 2019. All rights reserved.
+//	
 
 import Foundation
 

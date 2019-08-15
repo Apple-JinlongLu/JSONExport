@@ -2,8 +2,8 @@
 //  SharedUtilityMethods.swift
 //  JSONExport
 //
-//  Created by Ahmed Ali on 11/23/14.
-//  Copyright (c) 2014 Ahmed Ali. All rights reserved.
+//  Created by 卢金龙 on 11/23/14.
+//  Copyright © 2019 Apple-JinlongLu. All rights reserved.
 //
 
 import Foundation

@@ -3,7 +3,7 @@
 //  NoodleKit
 //
 //  Created by Paul Kim on 9/28/08.
-//  Copyright (c) 2008-2012 Noodlesoft, LLC. All rights reserved.
+//  Copyright (c) 2018-2019 Noodlesoft, LLC. All rights reserved.
 //
 // Permission is hereby granted, free of charge, to any person
 // obtaining a copy of this software and associated documentation
@@ -28,12 +28,6 @@
 //
 
 #import <Cocoa/Cocoa.h>
-
-/*
- Displays line numbers for an NSTextView.
- 
- For more details, see the related blog post at:  http://www.noodlesoft.com/blog/2008/10/05/displaying-line-numbers-with-nstextview/
- */
 
 @class NoodleLineNumberMarker;
 

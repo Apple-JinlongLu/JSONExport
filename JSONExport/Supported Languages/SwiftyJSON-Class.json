@@ -78,7 +78,7 @@
                        "forEachArrayOfCustomTypeProperty": "\t\tif <!VarName!> != nil{\n\t\t\tvar dictionaryElements = [[String:Any]]()\n\t\t\tfor <!VarName!>Element in <!VarName!> {\n\t\t\t\tdictionaryElements.append(<!VarName!>Element.toDictionary())\n\t\t\t}\n\t\t\tdictionary[\"<!JsonKeyName!>\"] = dictionaryElements\n\t\t}\n",
                        "returnStatement": "\t\treturn dictionary\n",
                        "body": "\t\tvar dictionary = [String:Any]()\n",
-                       "comment": "\t/**\n\t * Returns all the available property values in the form of [String:Any] object where the key is the approperiate json key and the value is the value of the corresponding property\n\t */\n",
+                       "comment": "\t/**\n\t * 以[String:Any]对象的形式返回所有可用的属性值，其中键是适当的JSON键，值是相应属性的值。\n\t */\n",
                        "bodyStart": "\n\t{\n"
                        },
                        {
@@ -89,7 +89,7 @@
                        "forEachArrayOfCustomTypeProperty": "         <!VarName!> = aDecoder.decodeObject(forKey: \"<!JsonKeyName!>\") as? <!VarType!>\n",
                        "returnStatement": "",
                        "body": "",
-                       "comment": "\n    /**\n    * NSCoding required initializer.\n    * Fills the data from the passed decoder\n    */\n",
+                       "comment": "\n    /**\n    * NSCoding需要初始化程序。\n    * 填充传递的解码器的数据\n    */\n",
                        "bodyStart": "\n\t{\n"
                        },
                        {
@@ -100,7 +100,7 @@
                        "forEachArrayOfCustomTypeProperty": "\t\tif <!VarName!> != nil{\n\t\t\taCoder.encode(<!VarName!>, forKey: \"<!JsonKeyName!>\")\n\t\t}\n",
                        "returnStatement": "",
                        "body": "",
-                       "comment": "\n    /**\n    * NSCoding required method.\n    * Encodes mode properties into the decoder\n    */\n",
+                       "comment": "\n    /**\n    * NSCoding需要的方法。\n    * 将模式属性编码到解码器中\n    */\n",
                        "bodyStart": "\n\t{\n"
                        }
                        ],

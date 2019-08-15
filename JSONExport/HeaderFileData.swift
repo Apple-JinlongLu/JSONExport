@@ -1,8 +1,8 @@
 //
 //	HeaderFileData.swift
 //
-//	Create by Ahmed Ali on 23/11/2014
-//	Copyright © 2014 Mobile Developer. All rights reserved.
+//	Create by 卢金龙 on 23/11/2019
+//	Copyright © 2019 Mobile Developer. All rights reserved.
 //
 
 import Foundation

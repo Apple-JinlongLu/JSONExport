@@ -2,8 +2,8 @@
 //  FilePreviewCell.swift
 //  JSONExport
 //
-//  Created by Ahmed on 11/10/14.
-//  Copyright (c) 2014 Ahmed Ali. All rights reserved.
+//  Created by 卢金龙 on 11/10/14.
+//  Copyright © 2019 Apple-JinlongLu. All rights reserved.
 //
 
 import Cocoa

@@ -41,7 +41,7 @@
                                                         ],
     "constructors": [
                      {
-                     "comment": "\t/**\n\t * Instantiate the instance using the passed jsonObject to set the properties values\n\t */\n",
+                     "comment": "\t/**\n\t * 使用传递的jsonObject实例化实例以设置属性值\n\t */\n",
                      "signature": "\tpublic <!ModelName!>(JSONObject jsonObject)",
                      "bodyStart": "{\n\t\tif(jsonObject == null){\n\t\t\treturn;\n\t\t}\n",
                      "bodyEnd": "\t}\n",
@@ -54,7 +54,7 @@
                      ],
     "utilityMethods": [
                        {
-                       "comment": "\t/**\n\t * Returns all the available property values in the form of JSONObject instance where the key is the approperiate json key and the value is the value of the corresponding field\n\t */\n",
+                       "comment": "\t/**\n\t * 以JSONObject实例的形式返回所有可用属性值，其中键是重新使用的json键，值是相应字段的值\n\t */\n",
                        "signature": "\tpublic JSONObject toJsonObject()",
                        "bodyStart": "\n\t{\n",
                        "bodyEnd": "\t}\n",
@@ -63,7 +63,7 @@
                        "forEachCustomTypeProperty" : "\t\t\tjsonObject.put(\"<!JsonKeyName!>\", <!VarName!>.toJsonObject());\n",
                        
                        "forEachArrayOfCustomTypeProperty": "\t\t\tif(<!VarName!> != null && <!VarName!>.length > 0){\n\t\t\t\tJSONArray <!VarName!>JsonArray = new JSONArray();\n\t\t\t\tfor(<!ElementType!> <!VarName!>Element : <!VarName!>){\n\t\t\t\t\t<!VarName!>JsonArray.put(<!VarName!>Element.toJsonObject());\n\t\t\t\t}\n\t\t\t\tjsonObject.put(\"<!JsonKeyName!>\", <!VarName!>JsonArray);\n\t\t\t}\n",
-                       "returnStatement": "\t\t} catch (JSONException e) {\n\t\t\t// TODO Auto-generated catch block\n\t\t\te.printStackTrace();\n\t\t}\n\t\treturn jsonObject;\n"
+                       "returnStatement": "\t\t} catch (JSONException e) {\n\t\t\t// TODO自动生成的catch块\n\t\t\te.printStackTrace();\n\t\t}\n\t\treturn jsonObject;\n"
                        }
                        ]
 }

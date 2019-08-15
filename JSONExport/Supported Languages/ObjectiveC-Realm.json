@@ -81,7 +81,7 @@
                                           ],
     "constructors": [
                      {
-                     "comment": "\n/**\n * Instantiate the instance using the passed dictionary values to set the properties values\n */\n",
+                     "comment": "\n/**\n * 使用传递的字典值实例化实例以设置属性值\n */\n",
                      "signature": "\n-(instancetype)initWithDictionary:(NSDictionary *)dictionary\n",
                      "bodyStart": "{\n\tif(dictionary == nil || [dictionary isKindOfClass:[NSNull class]]){\n\t\treturn nil;\n\t}\n\tself = [super init];\n",
                      "bodyEnd": "\n\treturn self;\n}\n",
@@ -93,7 +93,7 @@
     ],
     "utilityMethods": [
                        {
-                       "comment": "\n/**\n * Returns all the available property values in the form of NSDictionary object where the key is the approperiate json key and the value is the value of the corresponding property\n */\n",
+                       "comment": "\n/**\n * 以NSDictionary对象的形式返回所有可用的属性值，其中键是适当的json键，值是相应属性的值。\n */\n",
                        "signature": "-(NSDictionary *)toDictionary",
                        "bodyStart": "\n{\n",
                        "bodyEnd": "\n}\n",
@@ -113,7 +113,7 @@
 				         "forEachCustomTypeProperty": "\tif(self.<!VarName!> != nil){\n\t\t[aCoder encodeObject:self.<!VarName!> forKey:@\"<!JsonKeyName!>\"];\n\t}\n",
 				         "returnStatement": "",
 				         "body": "",
-				         "comment": "\n/**\n * Implementation of NSCoding encoding method\n */\n/**\n * Returns all the available property values in the form of NSDictionary object where the key is the approperiate json key and the value is the value of the corresponding property\n */\n",
+				         "comment": "\n/**\n * 实现NSCoding编码方法\n */\n/**\n * 以NSDictionary对象的形式返回所有可用的属性值，其中键是适当的json键，值是相应属性的值。\n */\n",
 				         "bodyStart": "\n{\n"
 				       },
 				       {
@@ -125,7 +125,7 @@
 				         "forEachCustomTypeProperty": "\tself.<!VarName!> = [aDecoder decodeObjectForKey:@\"<!JsonKeyName!>\"];\n",
 				         "returnStatement": "\treturn self;\n",
 				         "body": "\tself = [super init];\n",
-				         "comment": "\n/**\n * Implementation of NSCoding initWithCoder: method\n */\n",
+				         "comment": "\n/**\n * 实现NSCoding initWithCoder:方法\n */\n",
 				         "bodyStart": "\n{\n"
 				       }
                        ]

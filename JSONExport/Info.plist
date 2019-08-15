@@ -26,8 +26,10 @@
 	<string>public.app-category.developer-tools</string>
 	<key>LSMinimumSystemVersion</key>
 	<string>$(MACOSX_DEPLOYMENT_TARGET)</string>
+	<key>NSContactsUsageDescription</key>
+	<string>$(PRODUCT_NAME)请求访问通讯录</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2014 Ahmed Ali. All rights reserved.</string>
+	<string>Copyright © 2019 Apple-JinlongLu. All rights reserved.</string>
 	<key>NSMainStoryboardFile</key>
 	<string>Main</string>
 	<key>NSPrincipalClass</key>

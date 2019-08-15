@@ -69,7 +69,7 @@
                        "forEachArrayOfCustomTypeProperty": "\t\tif <!VarName!> != nil{\n\t\t\tvar dictionaryElements = [[String:Any]]()\n\t\t\tfor <!VarName!>Element in <!VarName!> {\n\t\t\t\tdictionaryElements.append(<!VarName!>Element.toDictionary())\n\t\t\t}\n\t\t\tdictionary[\"<!JsonKeyName!>\"] = dictionaryElements\n\t\t}\n",
                        "returnStatement": "\t\treturn dictionary\n",
                        "body": "\t\tvar dictionary = [String:Any]()\n",
-                       "comment": "\t/**\n\t * Returns all the available property values in the form of [String:Any] object where the key is the approperiate json key and the value is the value of the corresponding property\n\t */\n",
+                       "comment": "\t/**\n\t * 以[String:Any]对象的形式返回所有可用的属性值，其中键是适当的JSON键，值是相应属性的值。\n\t */\n",
                        "bodyStart": "\n\t{\n"
                        }
                        ],
@@ -94,7 +94,7 @@
                      "fetchBasicTypePropertyFromMap": "\t\t<!VarName!> = dictionary[\"<!JsonKeyName!>\"] as? <!VarType!>\n",
                      "signature": "\tinit(fromDictionary dictionary: [String:Any])",
                      "fetchArrayOfCustomTypePropertyFromMap": "\t\t<!VarName!> = <!VarType!>()\n\t\tif let <!VarName!>Array = dictionary[\"<!JsonKeyName!>\"] as? [[String:Any]]{\n\t\t\tfor dic in <!VarName!>Array{\n\t\t\t\tlet value = <!ElementType!>(fromDictionary: dic)\n\t\t\t\t<!VarName!>.append(value)\n\t\t\t}\n\t\t}\n",
-                     "comment": "\t/**\n\t * Instantiate the instance using the passed dictionary values to set the properties values\n\t */\n",
+                     "comment": "\t/**\n\t * 使用传递的字典值实例化实例以设置属性值\n\t */\n",
                      "fetchCustomTypePropertyFromMap": "\t\tif let <!VarName!>Data = dictionary[\"<!JsonKeyName!>\"] as? [String:Any]{\n\t\t\t\t<!VarName!> = <!VarType!>(fromDictionary: <!VarName!>Data)\n\t\t\t}\n"
                      }
                      ],

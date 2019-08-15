@@ -80,7 +80,7 @@
                        "forEachArrayOfCustomTypeProperty": "         <!VarName!> = aDecoder.decodeObjectForKey(\"<!JsonKeyName!>\") as? <!VarType!>\n",
                        "returnStatement": "",
                        "body": "",
-                       "comment": "\n    /**\n    * NSCoding required initializer.\n    * Fills the data from the passed decoder\n    */\n",
+                       "comment": "\n    /**\n    * NSCoding需要初始化程序。\n    * 填充传递的解码器的数据\n    */\n",
                        "bodyStart": "\n\t{\n"
                        },
                        {
@@ -91,7 +91,7 @@
                        "forEachArrayOfCustomTypeProperty": "\t\tif <!VarName!> != nil{\n\t\t\taCoder.encodeObject(<!VarName!>, forKey: \"<!JsonKeyName!>\")\n\t\t}\n",
                        "returnStatement": "",
                        "body": "",
-                       "comment": "\n    /**\n    * NSCoding required method.\n    * Encodes mode properties into the decoder\n    */\n",
+                       "comment": "\n    /**\n    * NSCoding需要的方法。\n    * 将模式属性编码到解码器中\n    */\n",
                        "bodyStart": "\n\t{\n"
                        }
                        ],
