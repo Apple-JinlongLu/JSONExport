@@ -1,10 +1,6 @@
-# 毫不遮掩 我摊牌了
-## 就是从[GitHub大佬Ahmed-Ali](https://github.com/Ahmed-Ali/JSONExport) 下载的JSONExport修改的！！！
-## 优化了关闭重新打开打不开问题，然后把全英文全改全中文。
-
-# 【不害臊的把大佬的介绍放上去】翻译过的🤓
-
 # JSONEXport中文版
+
+## 建议直接下载JSONExport.dmg文件
 
   Mac下JSON字符串转Model对象工具。
   JSONExport是适用于Mac OS X的桌面应用程序，它使您能够将JSON对象作为模型类导出，并使用您喜欢的语言创建相关的构造函数，实用程序方法，setter和getter。
@@ -49,12 +45,12 @@
 18. SwiftyJSON - Class.
 
   屏幕截图展示JSON转换 JSONExport。
-![JSONExport](https://github.com/JinlongLu-iOS/MyImage/blob/master/屏幕快照%202019-08-14%20下午4.56.34.png)
+![JSONExport](https://upload-images.jianshu.io/upload_images/5969066-784d219926f36465.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 安装
 ========================
 请克隆/下载项目，打开JSONEXport.dmg文件，将JSONEXport.app拖入应用程序快捷方式。
-![dmg](https://github.com/JinlongLu-iOS/MyImage/blob/master/WX20190814-182820.png)
+![dmg](https://upload-images.jianshu.io/upload_images/5969066-33807d7ce2a3ad8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 已知限制:
 ========================
