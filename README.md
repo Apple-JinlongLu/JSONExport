@@ -49,8 +49,8 @@
 
 安装
 ========================
-请下载re了
-请克隆/下载项目，打开JSONEXport.dmg文件，将JSONEXport.app拖入应用程序快捷方式。
+请点击release直接下载最新[【JSONExport中文版.dmg】](https://github.com/Apple-JinlongLu/JSONExport/releases/tag/untagged-db4e9655a82e857e66cb)文件
+打开JSONEXport.dmg文件，将JSONEXport.app拖入应用程序快捷方式。
 ![dmg](https://upload-images.jianshu.io/upload_images/5969066-33807d7ce2a3ad8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 已知限制:
