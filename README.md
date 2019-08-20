@@ -49,6 +49,7 @@
 
 安装
 ========================
+请下载re了
 请克隆/下载项目，打开JSONEXport.dmg文件，将JSONEXport.app拖入应用程序快捷方式。
 ![dmg](https://upload-images.jianshu.io/upload_images/5969066-33807d7ce2a3ad8f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
