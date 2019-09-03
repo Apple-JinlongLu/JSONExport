@@ -54,6 +54,7 @@
 		38085000231E034300112EBA /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
 		38085001231E1C8D00112EBA /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Main.strings"; sourceTree = "<group>"; };
 		38085002231E1D0900112EBA /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Main.strings; sourceTree = "<group>"; };
+		38085003231E4F8700112EBA /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Main.strings; sourceTree = "<group>"; };
 		381EEB2C231D20560041F7F6 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
 		608896431CF278440074CB80 /* Author.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Author.swift; sourceTree = "<group>"; };
 		60FB8FE61B9B361600290979 /* Java-Android Realm.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Java-Android Realm.json"; path = "Supported Languages/Java-Android Realm.json"; sourceTree = "<group>"; };
@@ -287,6 +288,7 @@
 				ja,
 				"zh-Hant",
 				th,
+				ru,
 			);
 			mainGroup = E2FA87AC1A059AC100648EB6;
 			productRefGroup = E2FA87B61A059AC100648EB6 /* Products */;
@@ -366,6 +368,7 @@
 				38085000231E034300112EBA /* ja */,
 				38085001231E1C8D00112EBA /* zh-Hant */,
 				38085002231E1D0900112EBA /* th */,
+				38085003231E4F8700112EBA /* ru */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
