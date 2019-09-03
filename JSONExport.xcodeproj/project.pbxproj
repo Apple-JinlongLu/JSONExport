@@ -3,13 +3,12 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 46;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		01ACC24B1FBB42E300C410C2 /* Swift-Codable.json in Resources */ = {isa = PBXBuildFile; fileRef = 01ACC24A1FBB42E300C410C2 /* Swift-Codable.json */; };
 		166AF5CE1CEF6C3600516EDD /* Swift-Struct-Gloss.json in Resources */ = {isa = PBXBuildFile; fileRef = 166AF5CD1CEF6C3600516EDD /* Swift-Struct-Gloss.json */; };
-		38CA54B623040C2000CF3E15 /* SwiftyJSON-Class.json in Resources */ = {isa = PBXBuildFile; fileRef = 38CA54B523040C2000CF3E15 /* SwiftyJSON-Class.json */; };
 		608896441CF278440074CB80 /* Author.swift in Sources */ = {isa = PBXBuildFile; fileRef = 608896431CF278440074CB80 /* Author.swift */; };
 		60FB8FF01B9B361600290979 /* Java-Android Realm.json in Resources */ = {isa = PBXBuildFile; fileRef = 60FB8FE61B9B361600290979 /* Java-Android Realm.json */; };
 		60FB8FF11B9B361600290979 /* Java-Android.json in Resources */ = {isa = PBXBuildFile; fileRef = 60FB8FE71B9B361600290979 /* Java-Android.json */; };
@@ -20,6 +19,7 @@
 		60FB8FF61B9B361600290979 /* Swift-CoreData.json in Resources */ = {isa = PBXBuildFile; fileRef = 60FB8FEC1B9B361600290979 /* Swift-CoreData.json */; };
 		60FB8FF71B9B361600290979 /* Swift-Mappable.json in Resources */ = {isa = PBXBuildFile; fileRef = 60FB8FED1B9B361600290979 /* Swift-Mappable.json */; };
 		60FB8FF81B9B361600290979 /* Swift-Struct.json in Resources */ = {isa = PBXBuildFile; fileRef = 60FB8FEE1B9B361600290979 /* Swift-Struct.json */; };
+		60FB8FF91B9B361600290979 /* SwiftyJSON-Class.json in Resources */ = {isa = PBXBuildFile; fileRef = 60FB8FEF1B9B361600290979 /* SwiftyJSON-Class.json */; };
 		60FB8FFC1B9B3F6400290979 /* ObjectiveC-Realm.json in Resources */ = {isa = PBXBuildFile; fileRef = 60FB8FFA1B9B3F6400290979 /* ObjectiveC-Realm.json */; };
 		60FB8FFD1B9B3F6400290979 /* Swift-Realm.json in Resources */ = {isa = PBXBuildFile; fileRef = 60FB8FFB1B9B3F6400290979 /* Swift-Realm.json */; };
 		98978FC11D5B6B19000C1846 /* Swift-Struct-Unbox.json in Resources */ = {isa = PBXBuildFile; fileRef = 98978FC01D5B6B19000C1846 /* Swift-Struct-Unbox.json */; };
@@ -50,7 +50,11 @@
 /* Begin PBXFileReference section */
 		01ACC24A1FBB42E300C410C2 /* Swift-Codable.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Swift-Codable.json"; path = "Supported Languages/Swift-Codable.json"; sourceTree = "<group>"; };
 		166AF5CD1CEF6C3600516EDD /* Swift-Struct-Gloss.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Swift-Struct-Gloss.json"; path = "Supported Languages/Swift-Struct-Gloss.json"; sourceTree = "<group>"; };
-		38CA54B523040C2000CF3E15 /* SwiftyJSON-Class.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "SwiftyJSON-Class.json"; path = "Supported Languages/SwiftyJSON-Class.json"; sourceTree = "<group>"; };
+		38084FFE231DFFC500112EBA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		38085000231E034300112EBA /* ja */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Main.strings; sourceTree = "<group>"; };
+		38085001231E1C8D00112EBA /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Main.strings"; sourceTree = "<group>"; };
+		38085002231E1D0900112EBA /* th */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = th; path = th.lproj/Main.strings; sourceTree = "<group>"; };
+		381EEB2C231D20560041F7F6 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Main.strings"; sourceTree = "<group>"; };
 		608896431CF278440074CB80 /* Author.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Author.swift; sourceTree = "<group>"; };
 		60FB8FE61B9B361600290979 /* Java-Android Realm.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Java-Android Realm.json"; path = "Supported Languages/Java-Android Realm.json"; sourceTree = "<group>"; };
 		60FB8FE71B9B361600290979 /* Java-Android.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Java-Android.json"; path = "Supported Languages/Java-Android.json"; sourceTree = "<group>"; };
@@ -61,6 +65,7 @@
 		60FB8FEC1B9B361600290979 /* Swift-CoreData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Swift-CoreData.json"; path = "Supported Languages/Swift-CoreData.json"; sourceTree = "<group>"; };
 		60FB8FED1B9B361600290979 /* Swift-Mappable.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Swift-Mappable.json"; path = "Supported Languages/Swift-Mappable.json"; sourceTree = "<group>"; };
 		60FB8FEE1B9B361600290979 /* Swift-Struct.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Swift-Struct.json"; path = "Supported Languages/Swift-Struct.json"; sourceTree = "<group>"; };
+		60FB8FEF1B9B361600290979 /* SwiftyJSON-Class.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "SwiftyJSON-Class.json"; path = "Supported Languages/SwiftyJSON-Class.json"; sourceTree = "<group>"; };
 		60FB8FFA1B9B3F6400290979 /* ObjectiveC-Realm.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "ObjectiveC-Realm.json"; path = "Supported Languages/ObjectiveC-Realm.json"; sourceTree = "<group>"; };
 		60FB8FFB1B9B3F6400290979 /* Swift-Realm.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Swift-Realm.json"; path = "Supported Languages/Swift-Realm.json"; sourceTree = "<group>"; };
 		98978FC01D5B6B19000C1846 /* Swift-Struct-Unbox.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "Swift-Struct-Unbox.json"; path = "Supported Languages/Swift-Struct-Unbox.json"; sourceTree = "<group>"; };
@@ -174,7 +179,7 @@
 				60FB8FEE1B9B361600290979 /* Swift-Struct.json */,
 				98978FC01D5B6B19000C1846 /* Swift-Struct-Unbox.json */,
 				01ACC24A1FBB42E300C410C2 /* Swift-Codable.json */,
-				38CA54B523040C2000CF3E15 /* SwiftyJSON-Class.json */,
+				60FB8FEF1B9B361600290979 /* SwiftyJSON-Class.json */,
 			);
 			name = "Supported Languages";
 			sourceTree = "<group>";
@@ -261,24 +266,27 @@
 			attributes = {
 				LastSwiftMigration = 0700;
 				LastSwiftUpdateCheck = 0700;
-				LastUpgradeCheck = 1030;
-				ORGANIZATIONNAME = "Apple-JinlongLu";
+				LastUpgradeCheck = 1000;
+				ORGANIZATIONNAME = "Ahmed Ali";
 				TargetAttributes = {
 					E2FA87B41A059AC100648EB6 = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = E222S38S4Y;
-						LastSwiftMigration = 1030;
-						ProvisioningStyle = Automatic;
+						LastSwiftMigration = 1000;
 					};
 				};
 			};
 			buildConfigurationList = E2FA87B01A059AC100648EB6 /* Build configuration list for PBXProject "JSONExport" */;
-			compatibilityVersion = "Xcode 10.0";
-			developmentRegion = en;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
+				"zh-Hans",
+				ja,
+				"zh-Hant",
+				th,
 			);
 			mainGroup = E2FA87AC1A059AC100648EB6;
 			productRefGroup = E2FA87B61A059AC100648EB6 /* Products */;
@@ -295,7 +303,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				38CA54B623040C2000CF3E15 /* SwiftyJSON-Class.json in Resources */,
 				01ACC24B1FBB42E300C410C2 /* Swift-Codable.json in Resources */,
 				60FB8FF51B9B361600290979 /* Swift-Class.json in Resources */,
 				60FB8FF01B9B361600290979 /* Java-Android Realm.json in Resources */,
@@ -310,6 +317,7 @@
 				60FB8FFD1B9B3F6400290979 /* Swift-Realm.json in Resources */,
 				60FB8FF71B9B361600290979 /* Swift-Mappable.json in Resources */,
 				60FB8FF61B9B361600290979 /* Swift-CoreData.json in Resources */,
+				60FB8FF91B9B361600290979 /* SwiftyJSON-Class.json in Resources */,
 				60FB8FF21B9B361600290979 /* ObjectiveC-CoreData-iOS.json in Resources */,
 				E2FA87C21A059AC100648EB6 /* Main.storyboard in Resources */,
 				E24E443221AA12B800435FE7 /* Swift-Outlaw.json in Resources */,
@@ -353,6 +361,11 @@
 			isa = PBXVariantGroup;
 			children = (
 				E2FA87C11A059AC100648EB6 /* Base */,
+				381EEB2C231D20560041F7F6 /* zh-Hans */,
+				38084FFE231DFFC500112EBA /* en */,
+				38085000231E034300112EBA /* ja */,
+				38085001231E1C8D00112EBA /* zh-Hant */,
+				38085002231E1D0900112EBA /* th */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -364,7 +377,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -388,7 +400,7 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
+				CODE_SIGN_IDENTITY = "-";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -420,7 +432,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -444,7 +455,7 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "3rd Party Mac Developer Application";
+				CODE_SIGN_IDENTITY = "-";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -460,8 +471,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 			};
 			name = Release;
@@ -471,22 +481,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "-";
-				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = E222S38S4Y;
 				INFOPLIST_FILE = JSONExport/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-				);
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = Apple.JinlongLu.JSONExport;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "ahmed.ali.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "JSONExport/JSONExport-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 5.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Debug;
 		};
@@ -495,21 +498,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
-				CODE_SIGN_IDENTITY = "-";
-				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = E222S38S4Y;
 				INFOPLIST_FILE = JSONExport/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-				);
-				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = Apple.JinlongLu.JSONExport;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "ahmed.ali.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "JSONExport/JSONExport-Bridging-Header.h";
-				SWIFT_VERSION = 5.0;
+				SWIFT_SWIFT3_OBJC_INFERENCE = On;
+				SWIFT_VERSION = 4.2;
 			};
 			name = Release;
 		};

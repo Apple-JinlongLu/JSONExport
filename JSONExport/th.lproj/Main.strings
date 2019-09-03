@@ -1,0 +1,444 @@
+
+/* Class = "NSMenuItem"; title = "Customize Toolbar…"; ObjectID = "1UK-8n-QPP"; */
+"1UK-8n-QPP.title" = "ปรับแต่งแถบเครื่องมือ ...";
+
+/* Class = "NSMenuItem"; title = "JSONExport"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "JSONExport";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; */
+"1b7-l0-nxx.title" = "หา";
+
+/* Class = "NSMenuItem"; title = "Lower"; ObjectID = "1tx-W0-xDw"; */
+"1tx-W0-xDw.title" = "ลดลง";
+
+/* Class = "NSMenuItem"; title = "Raise"; ObjectID = "2h7-ER-AoG"; */
+"2h7-ER-AoG.title" = "ยก";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC"; */
+"2oI-Rn-ZJC.title" = "แปลง";
+
+/* Class = "NSMenu"; title = "Spelling"; ObjectID = "3IN-sU-3Bg"; */
+"3IN-sU-3Bg.title" = "การสะกดคำ";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "3Om-Ey-2VK"; */
+"3Om-Ey-2VK.title" = "ใช้ค่าเริ่มต้น";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH"; */
+"3rS-ZA-NoH.title" = "การพูด";
+
+/* Class = "NSMenuItem"; title = "Tighten"; ObjectID = "46P-cB-AYj"; */
+"46P-cB-AYj.title" = "ขัน";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; */
+"4EN-yA-p0u.title" = "หา";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Package name for example"; ObjectID = "4lt-2I-gy6"; */
+"4lt-2I-gy6.ibExternalAccessibilityDescription" = "ชื่อแพ็คเกจเช่น";
+
+/* Class = "NSMenuItem"; title = "Quit JSONExport"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "ออกจากJSONExport";
+
+/* Class = "NSButtonCell"; title = "Constructors"; ObjectID = "51T-Ee-Xao"; */
+"51T-Ee-Xao.title" = "ก่อสร้าง";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "แก้ไข";
+
+/* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "5Vv-lz-BsD"; */
+"5Vv-lz-BsD.title" = "คัดลอกสไตล์";
+
+/* Class = "NSTextFieldCell"; title = "Enter json data  or"; ObjectID = "5aC-KR-174"; */
+"5aC-KR-174.title" = "ป้อนข้อมูลjsonหรือ";
+
+/* Class = "NSMenuItem"; title = "About JSONExport"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "เกี่ยวกับJSONExport";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
+"6dh-zS-Vam.title" = "พร้อมแล้ว";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "78Y-hA-62v"; */
+"78Y-hA-62v.title" = "แก้ไขการสะกดโดยอัตโนมัติ";
+
+/* Class = "NSMenu"; title = "Writing Direction"; ObjectID = "8mr-sm-Yjd"; */
+"8mr-sm-Yjd.title" = "ทิศทางการเขียน";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "9ic-FL-obx"; */
+"9ic-FL-obx.title" = "แทน";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Parent class name"; ObjectID = "9tJ-VT-CNm"; */
+"9tJ-VT-CNm.placeholderString" = "ชื่อคลาสพาเรนต์";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "9yt-4B-nSM"; */
+"9yt-4B-nSM.title" = "คัดลอก/วางสมาร์ท";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "เมนูหลัก";
+
+/* Class = "NSMenuItem"; title = "Manage supported languages"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "จัดการภาษาที่รองรับ";
+
+/* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "BgM-ve-c93"; */
+"BgM-ve-c93.title" = "\tจากซ้ายไปขวา";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A"; */
+"Bw7-FT-i3A.title" = "บันทึกเป็น…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "ปิด";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "Dv1-io-Yv7"; */
+"Dv1-io-Yv7.title" = "การสะกดและไวยากรณ์";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "ช่วยด้วย";
+
+/* Class = "NSMenuItem"; title = "JSONExport Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "วิธีใช้JSONExport";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "Fal-I4-PZk"; */
+"Fal-I4-PZk.title" = "ข้อความ";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "FeM-D8-WVr"; */
+"FeM-D8-WVr.title" = "แทน";
+
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "GB9-OM-e27"; */
+"GB9-OM-e27.title" = "กล้า";
+
+/* Class = "NSMenu"; title = "Format"; ObjectID = "GEO-Iw-cKr"; */
+"GEO-Iw-cKr.title" = "รูป";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "GUa-eO-cwY"; */
+"GUa-eO-cwY.title" = "ใช้ค่าเริ่มต้น";
+
+/* Class = "NSMenuItem"; title = "Font"; ObjectID = "Gi5-1S-RQB"; */
+"Gi5-1S-RQB.title" = "ตัวอักษร";
+
+/* Class = "NSTextFieldCell"; placeholderString = "sdf"; ObjectID = "Gs2-sh-PYs"; */
+"Gs2-sh-PYs.placeholderString" = "ไม่มีที่อยู่อาศัย";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gs2-sh-PYs"; */
+"Gs2-sh-PYs.title" = "เซลล์ข้อความ";
+
+/* Class = "NSMenuItem"; title = "Writing Direction"; ObjectID = "H1b-Si-o9J"; */
+"H1b-Si-o9J.title" = "ทิศทางการเขียน";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "ดู";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "HFQ-gK-NFA"; */
+"HFQ-gK-NFA.title" = "การแทนที่ข้อความ";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "HFo-cy-zxI"; */
+"HFo-cy-zxI.title" = "แสดงตัวสะกดและไวยากรณ์";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "ดู";
+
+/* Class = "NSMenuItem"; title = "Subscript"; ObjectID = "I0S-gh-46l"; */
+"I0S-gh-46l.title" = "ห้อย";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9"; */
+"IAo-SY-fd9.title" = "เปิด…";
+
+/* Class = "NSWindow"; title = "JSONExport"; ObjectID = "IQv-IB-iLA"; */
+"IQv-IB-iLA.title" = "JSONExport";
+
+/* Class = "NSMenuItem"; title = "Justify"; ObjectID = "J5U-5w-g23"; */
+"J5U-5w-g23.title" = "แสดงให้เห็นถึง";
+
+/* Class = "NSMenuItem"; title = "Use None"; ObjectID = "J7y-lM-qPV"; */
+"J7y-lM-qPV.title" = "ใช้ไม่มี";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Root class name"; ObjectID = "JBU-yq-BM7"; */
+"JBU-yq-BM7.placeholderString" = "ชื่อคลาสรูท";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "KaW-ft-85H"; */
+"KaW-ft-85H.title" = "เปลี่ยนกลับเป็นบันทึก";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "แสดงทั้งหมด";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "นำทั้งหมดไปข้างหน้า";
+
+/* Class = "NSTextFieldCell"; placeholderString = "First line"; ObjectID = "LRe-2d-etY"; */
+"LRe-2d-etY.placeholderString" = "เส้นแรก";
+
+/* Class = "NSMenuItem"; title = "Paste Ruler"; ObjectID = "LVM-kO-fVI"; */
+"LVM-kO-fVI.title" = "วางไม้บรรทัด";
+
+/* Class = "NSMenuItem"; title = "\tLeft to Right"; ObjectID = "Lbh-J2-qVU"; */
+"Lbh-J2-qVU.title" = "\tจากซ้ายไปขวา";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "Lkf-Wr-hOP"; */
+"Lkf-Wr-hOP.title" = "รายการ3";
+
+/* Class = "NSMenuItem"; title = "Copy Ruler"; ObjectID = "MkV-Pr-PK5"; */
+"MkV-Pr-PK5.title" = "คัดลอกไม้บรรทัด";
+
+/* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "Nop-cj-93Q"; */
+"Nop-cj-93Q.title" = "\tค่าเริ่มต้น";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "ลด";
+
+/* Class = "NSMenuItem"; title = "Baseline"; ObjectID = "OaQ-X3-Vso"; */
+"OaQ-X3-Vso.title" = "พื้นฐาน";
+
+/* Class = "NSMenuItem"; title = "Hide JSONExport"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "ซ่อนJSONExport";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
+"OwM-mh-QMV.title" = "ค้นหาก่อนหน้า";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm"; */
+"Oyz-dy-DGm.title" = "หยุดพูด";
+
+/* Class = "NSMenuItem"; title = "Bigger"; ObjectID = "Ptp-SP-VEL"; */
+"Ptp-SP-VEL.title" = "ที่ใหญ่กว่า";
+
+/* Class = "NSMenuItem"; title = "Show Fonts"; ObjectID = "Q5e-8K-NDq"; */
+"Q5e-8K-NDq.title" = "แสดงแบบอักษร";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "ซูม";
+
+/* Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "RB4-Sm-HuC"; */
+"RB4-Sm-HuC.title" = "\tจากขวาไปซ้าย";
+
+/* Class = "NSTextFieldCell"; placeholderString = "Classes prefix"; ObjectID = "RFm-PQ-dDB"; */
+"RFm-PQ-dDB.placeholderString" = "คำนำหน้าชั้นเรียน";
+
+/* Class = "NSMenuItem"; title = "Superscript"; ObjectID = "Rqc-34-cIF"; */
+"Rqc-34-cIF.title" = "ซึ่งเขียน";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "เลือกทั้งหมด";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
+"S0p-oC-mLd.title" = "ข้ามไปที่สิ่งที่เลือก";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "หน้าต่าง";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG"; */
+"UEZ-Bs-lqG.title" = "ประโยชน์";
+
+/* Class = "NSMenuItem"; title = "Center"; ObjectID = "VIY-Ag-zcb"; */
+"VIY-Ag-zcb.title" = "ศูนย์";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "ซ่อนอื่น ๆ";
+
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "Vjx-xi-njq"; */
+"Vjx-xi-njq.title" = "ตัวเอียง";
+
+/* Class = "NSButtonCell"; title = "Save"; ObjectID = "VsL-sm-j7N"; */
+"VsL-sm-j7N.title" = "บันทึก";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "แก้ไข";
+
+/* Class = "NSMenuItem"; title = "Underline"; ObjectID = "WRG-CD-K1S"; */
+"WRG-CD-K1S.title" = "ขีดเส้นใต้";
+
+/* Class = "NSButtonCell"; title = "Utility methods"; ObjectID = "WVX-MK-qtI"; */
+"WVX-MK-qtI.title" = "วิธีการยูทิลิตี้";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "Was-JA-tGl"; */
+"Was-JA-tGl.title" = "ใหม่";
+
+/* Class = "NSMenuItem"; title = "Paste and Match Style"; ObjectID = "WeT-3V-zwk"; */
+"WeT-3V-zwk.title" = "วางและจับคู่สไตล์";
+
+/* Class = "NSMenuItem"; title = "Swift Classes"; ObjectID = "Wf6-Cp-ZQz"; */
+"Wf6-Cp-ZQz.title" = "Swift Classes";
+
+/* Class = "NSViewController"; title = "JSONExport"; ObjectID = "XfG-lQ-9wD"; */
+"XfG-lQ-9wD.title" = "JSONExport";
+
+/* Class = "NSButtonCell"; title = "Open .json File"; ObjectID = "XsJ-Wl-WPN"; */
+"XsJ-Wl-WPN.title" = "เปิดไฟล์ .json";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W"; */
+"Xz5-n4-O0W.title" = "หา…";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz"; */
+"YEy-JH-Tfz.title" = "ค้นหาและแทนที่…";
+
+/* Class = "NSMenuItem"; title = "\tDefault"; ObjectID = "YGs-j5-SAR"; */
+"YGs-j5-SAR.title" = "\tค่าเริ่มต้น";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ"; */
+"Ynk-f8-cLZ.title" = "เริ่มพูด";
+
+/* Class = "NSMenuItem"; title = "Align Left"; ObjectID = "ZM1-6Q-yy1"; */
+"ZM1-6Q-yy1.title" = "จัดชิดซ้าย";
+
+/* Class = "NSButtonCell"; title = "Utility methods"; ObjectID = "ZXZ-o4-qap"; */
+"ZXZ-o4-qap.title" = "วิธีการยูทิลิตี้";
+
+/* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "ZvO-Gk-QUH"; */
+"ZvO-Gk-QUH.title" = "ย่อหน้า";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "aTl-1u-JFS"; */
+"aTl-1u-JFS.title" = "พิมพ์…";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "หน้าต่าง";
+
+/* Class = "NSMenu"; title = "Font"; ObjectID = "aXa-aM-Jaq"; */
+"aXa-aM-Jaq.title" = "ตัวอักษร";
+
+/* Class = "NSMenuItem"; title = "Use Default"; ObjectID = "agt-UL-0e3"; */
+"agt-UL-0e3.title" = "ใช้ค่าเริ่มต้น";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "beq-qg-Ubv"; */
+"beq-qg-Ubv.title" = "ฉลาก";
+
+/* Class = "NSMenuItem"; title = "Show Colors"; ObjectID = "bgn-CT-cEk"; */
+"bgn-CT-cEk.title" = "แสดงสี";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "ไฟล์";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt"; */
+"buJ-ug-pKt.title" = "ใช้การเลือกเพื่อค้นหา";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "c8a-y6-VQd"; */
+"c8a-y6-VQd.title" = "แปลง";
+
+/* Class = "NSMenuItem"; title = "Use None"; ObjectID = "cDB-IK-hbR"; */
+"cDB-IK-hbR.title" = "ใช้ไม่มี";
+
+/* Class = "NSButtonCell"; title = "Constructors"; ObjectID = "cig-Ev-U9h"; */
+"cig-Ev-U9h.title" = "ก่อสร้าง";
+
+/* Class = "NSMenuItem"; title = "Selection"; ObjectID = "cqv-fj-IhA"; */
+"cqv-fj-IhA.title" = "การเลือก";
+
+/* Class = "NSMenuItem"; title = "Smart Links"; ObjectID = "cwL-P1-jid"; */
+"cwL-P1-jid.title" = "ลิงค์สมาร์ท";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "d9M-CD-aMd"; */
+"d9M-CD-aMd.title" = "ทำให้ตัวพิมพ์เล็ก";
+
+/* Class = "NSMenu"; title = "Text"; ObjectID = "d9c-me-L2H"; */
+"d9c-me-L2H.title" = "ข้อความ";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "ไฟล์";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg"; */
+"dRJ-4n-Yzg.title" = "แก้";
+
+/* Class = "NSTextFieldCell"; title = "Preview your generated files below"; ObjectID = "eaU-LD-CnU"; */
+"eaU-LD-CnU.title" = "ดูตัวอย่างไฟล์ที่สร้างของคุณด้านล่าง";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
+"gVA-U4-sdL.title" = "แปะ";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "hQb-2v-fYv"; */
+"hQb-2v-fYv.title" = "คำคมอัจฉริยะ";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "hz2-CU-CR7"; */
+"hz2-CU-CR7.title" = "ตรวจสอบเอกสารทันที";
+
+/* Class = "NSMenuItem"; title = "Smaller"; ObjectID = "i1d-Er-qST"; */
+"i1d-Er-qST.title" = "ที่มีขนาดเล็ก";
+
+/* Class = "NSMenu"; title = "Baseline"; ObjectID = "ijk-EB-dga"; */
+"ijk-EB-dga.title" = "พื้นฐาน";
+
+/* Class = "NSMenuItem"; title = "Kern"; ObjectID = "jBQ-r6-VK2"; */
+"jBQ-r6-VK2.title" = "แกน";
+
+/* Class = "NSMenuItem"; title = "\tRight to Left"; ObjectID = "jFq-tB-4Kx"; */
+"jFq-tB-4Kx.title" = "\tจากขวาไปซ้าย";
+
+/* Class = "NSMenuItem"; title = "Format"; ObjectID = "jxT-CU-nIS"; */
+"jxT-CU-nIS.title" = "รูป";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "mK6-2p-4JG"; */
+"mK6-2p-4JG.title" = "ตรวจสอบไวยากรณ์ด้วยตัวสะกด";
+
+/* Class = "NSMenuItem"; title = "Ligatures"; ObjectID = "o6e-r0-MWq"; */
+"o6e-r0-MWq.title" = "หนังสติ๊ก";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "oas-Oc-fiZ"; */
+"oas-Oc-fiZ.title" = "เปิดล่าสุด";
+
+/* Class = "NSMenuItem"; title = "Loosen"; ObjectID = "ogc-rX-tC1"; */
+"ogc-rX-tC1.title" = "คลาย";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
+"pa3-QI-u2k.title" = "ลบ";
+
+/* Class = "NSMenuItem"; title = "Save…"; ObjectID = "pxx-59-PXV"; */
+"pxx-59-PXV.title" = "บันทึก...";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye"; */
+"q09-fT-Sye.title" = "ค้นหาถัดไป";
+
+/* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "qIS-W8-SiK"; */
+"qIS-W8-SiK.title" = "ตั้งค่าหน้ากระดาษ...";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "qV8-Ne-Jc7"; */
+"qV8-Ne-Jc7.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "rbD-Rh-wIN"; */
+"rbD-Rh-wIN.title" = "ตรวจสอบการสะกดคำขณะพิมพ์";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "rgM-f4-ycn"; */
+"rgM-f4-ycn.title" = "สมาร์ทแดช";
+
+/* Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "snW-S8-Cw5"; */
+"snW-S8-Cw5.title" = "แสดงแถบเครื่องมือ";
+
+/* Class = "NSMenuItem"; title = "Data Detectors"; ObjectID = "tRr-pd-1PS"; */
+"tRr-pd-1PS.title" = "เครื่องตรวจจับข้อมูล";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "tXI-mr-wws"; */
+"tXI-mr-wws.title" = "เปิดล่าสุด";
+
+/* Class = "NSMenu"; title = "Kern"; ObjectID = "tlD-Oa-oAM"; */
+"tlD-Oa-oAM.title" = "แกน";
+
+/* Class = "NSMenu"; title = "JSONExport"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "JSONExport";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
+"uRl-iY-unG.title" = "ตัด";
+
+/* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "vKC-jM-MkH"; */
+"vKC-jM-MkH.title" = "วางสไตล์";
+
+/* Class = "NSMenuItem"; title = "Show Ruler"; ObjectID = "vLm-3I-IUL"; */
+"vLm-3I-IUL.title" = "แสดงไม้บรรทัด";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "vNY-rz-j42"; */
+"vNY-rz-j42.title" = "ล้างเมนู";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI"; */
+"vmV-6d-7jI.title" = "ทำตัวพิมพ์ใหญ่";
+
+/* Class = "NSMenu"; title = "Ligatures"; ObjectID = "w0m-vy-SC9"; */
+"w0m-vy-SC9.title" = "หนังสติ๊ก";
+
+/* Class = "NSMenuItem"; title = "Align Right"; ObjectID = "wb2-vD-lq4"; */
+"wb2-vD-lq4.title" = "จัดชิดขวา";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "ช่วยด้วย";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "สำเนา";
+
+/* Class = "NSMenuItem"; title = "Use All"; ObjectID = "xQD-1f-W4t"; */
+"xQD-1f-W4t.title" = "ใช้ทั้งหมด";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0"; */
+"xrE-MZ-jX0.title" = "การพูด";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "z6F-FW-3nz"; */
+"z6F-FW-3nz.title" = "แสดงการเปลี่ยนตัว";

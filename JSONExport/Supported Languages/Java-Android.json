@@ -15,7 +15,7 @@
         "stringType": "String"
     },
     "supportsFirstLineStatement" : "true",
-    "firstLineHint" : "Package name",
+    "firstLineHint" : "Package name(包名)",
     "staticImports": "import org.json.*;\nimport java.util.*;\n",
     "importForEachCustomType": "",
     "modelDefinition": "\npublic class <!ModelName!>",
