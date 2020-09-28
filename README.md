@@ -1,4 +1,4 @@
-# JSONEXport中文版
+# JSONEXport多语言版本
 
 ## 建议直接下载JSONExport.dmg文件
 
