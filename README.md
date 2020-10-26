@@ -1,4 +1,5 @@
 # JSONEXport多语言版本
+> JSONExport中文版是Mac下JSON字符串转Model对象工具，基于Ahmed-Ali/JSONExport进行完善。与Ahmed-Ali/JSONExport相比修改了关闭之后需要退出才能重新打开，适配了多语言，同样也适配了暗黑模式
 
 ## 建议直接下载JSONExport.dmg文件
 
