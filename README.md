@@ -50,7 +50,7 @@
 
 安装
 ========================
-请点击[release](https://github.com/Apple-JinlongLu/JSONExport/releases)直接下载最新[【JSONExport中文版.dmg】](https://github-production-release-asset-2e65be.s3.amazonaws.com/202304466/c0e51d00-1472-11eb-8263-b2306ee0ccf0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20201026%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20201026T030756Z&X-Amz-Expires=300&X-Amz-Signature=924e3a79f949ba5a400ca593402c3ac0939649bc18ff3b450248111c032761aa&X-Amz-SignedHeaders=host&actor_id=23730561&key_id=0&repo_id=202304466&response-content-disposition=attachment%3B%20filename%3DJSONExport.dmg&response-content-type=application%2Foctet-stream)文件
+请点击[release直接下载最新【JSONExport中文版.dmg】](https://github.com/Apple-JinlongLu/JSONExport/releases)文件
 
 打开JSONEXport.dmg文件，将JSONEXport.app拖入应用程序快捷方式。
 ![dmg](https://upload-images.jianshu.io/upload_images/5969066-aa66e343940c7e72.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
