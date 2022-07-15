@@ -66,4 +66,4 @@
 最后 说明
 ========================
 该应用程序仍处于早期阶段。请报告任何问题，以便我可以改进它。
-[cab](items://apps.apple.com/cn/app/id1135683366)
+[cab](http://apps.apple.com/cn/app/id1135683366)
