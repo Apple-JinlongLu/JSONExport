@@ -114,7 +114,7 @@
 "Gi5-1S-RQB.title" = "ตัวอักษร";
 
 /* Class = "NSTextFieldCell"; placeholderString = "sdf"; ObjectID = "Gs2-sh-PYs"; */
-"Gs2-sh-PYs.placeholderString" = "ไม่มีที่อยู่อาศัย";
+"Gs2-sh-PYs.placeholderString" = "sdf";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gs2-sh-PYs"; */
 "Gs2-sh-PYs.title" = "เซลล์ข้อความ";
