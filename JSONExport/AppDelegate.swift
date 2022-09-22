@@ -30,6 +30,12 @@ var mainWindow: NSWindow!
 
     func applicationWillTerminate(_ aNotification: Notification) {
         // Insert code here to tear down your application
+        NSLog("退出")
+    }
+    
+    func applicationWillShowHelp(_ aNotification: Notification) {
+        // Insert code here to tear down your application
+        NSLog("帮助")
     }
     
     func applicationShouldHandleReopen(_ sender: NSApplication, hasVisibleWindows flag: Bool) -> Bool {
