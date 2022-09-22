@@ -114,7 +114,7 @@
 "Gi5-1S-RQB.title" = "フォント";
 
 /* Class = "NSTextFieldCell"; placeholderString = "sdf"; ObjectID = "Gs2-sh-PYs"; */
-"Gs2-sh-PYs.placeholderString" = "ホームレス";
+"Gs2-sh-PYs.placeholderString" = "sdf";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Gs2-sh-PYs"; */
 "Gs2-sh-PYs.title" = "テキストセル";
