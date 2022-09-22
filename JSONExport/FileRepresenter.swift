@@ -206,7 +206,7 @@ class FileRepresenter{
     func getTodayFormattedDay() -> String
     {
         let components = (Calendar.current as NSCalendar).components([.day, .month, .year], from: Date())
-        return "\(components.day!)/\(components.month!)/\(components.year!)"
+        return "\(components.year!)/\(components.month!)/\(components.day!)"
     }
 
     /**
