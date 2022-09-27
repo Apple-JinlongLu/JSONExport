@@ -50,7 +50,7 @@
 
 安装
 ========================
-请点击[release直接下载最新【JSONExport中文版.dmg】](https://github.com/Apple-JinlongLu/JSONExport/releases)文件
+请点击[release直接下载最新【JSONExport.pkg】文件](https://github.com/Apple-JinlongLu/JSONExport/releases)文件
 
 打开JSONEXport.dmg文件，将JSONEXport.app拖入应用程序快捷方式。
 ![dmg](https://upload-images.jianshu.io/upload_images/5969066-aa66e343940c7e72.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
